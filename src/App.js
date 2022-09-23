@@ -16,7 +16,7 @@ export default function App() {
   return (
     <Header>
 
-      <h1>Oi</h1>
+      <h1>agora vai dar erro pfvr</h1>
       <h2>Fala aí po</h2>
 
     </Header>
