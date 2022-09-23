@@ -17,6 +17,7 @@ export default function App() {
     <Header>
 
       <h1>Oi</h1>
+      <h2>Fala aí po</h2>
 
     </Header>
   )
